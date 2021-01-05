@@ -2,7 +2,7 @@
   "name": "simple_react_node_template",
   "version": "0.0.1",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "express": "^4.17.1",
     "express-validator": "^6.2.0",
     "react": "^16.11.0",
